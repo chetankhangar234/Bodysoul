@@ -21,12 +21,15 @@ color: #aaa;
 }
 #art1{
     display:inline;
+    text-align:center;
 }
 #art2{
     display:inline;
+    text-align:center;
 }
 #art3{
     display:inline;
+    text-align:center;
 }
 #modal{
   position:fixed;
@@ -51,6 +54,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
