@@ -1,7 +1,7 @@
 body{
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     background-color: #f4f4f4;
 }
 header {
@@ -20,15 +20,12 @@ color: #aaa;
   cursor:pointer;
 }
 #art1{
-    display:inline;
     text-align:center;
 }
 #art2{
-    display:inline;
     text-align:center;
 }
 #art3{
-    display:inline;
     text-align:center;
 }
 #modal{
@@ -54,6 +51,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
