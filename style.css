@@ -19,13 +19,14 @@ color: #aaa;
 .art-img{
   cursor:pointer;
 }
-.gallery{
-  isplay:flex;
-  flex-wrap:wrap;
+#art1{
+    display:inline;
 }
+#art2{
+    display:inline;
 }
-.art 1{
-    text-align:center
+#art3{
+    display:inline;
 }
 #modal{
   position:fixed;
@@ -50,6 +51,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
