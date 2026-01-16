@@ -19,12 +19,12 @@ color: #aaa;
 .art-img{
   cursor:pointer;
 }
-#gallery{
+.gallery{
   isplay:flex;
   flex-wrap:wrap;
 }
 }
-#art 1{
+.art 1{
     text-align:center
 }
 #modal{
@@ -50,6 +50,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
