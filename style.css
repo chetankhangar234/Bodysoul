@@ -20,10 +20,8 @@ color: #aaa;
   cursor:pointer;
 }
 #gallery{
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
-  gap:12px;
-
+  isplay:flex;
+  flex-wrap:wrap;
 }
 }
 #art 1{
@@ -52,6 +50,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
