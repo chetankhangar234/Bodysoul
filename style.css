@@ -19,11 +19,11 @@ color: #aaa;
 .art-img{
   cursor:pointer;
 }
-.art-gallery{
-  display:flex;
-  gap:5px;
-  text-align:center;
-  margin-top:20px;
+.gallery{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+  gap:12px;
+}
 }
 art 1{
     text-align:center
@@ -51,4 +51,5 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
