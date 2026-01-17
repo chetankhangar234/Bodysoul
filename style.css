@@ -28,6 +28,9 @@ color: #aaa;
 #art3{
     text-align:center;
 }
+#art4{
+    text-align:center;
+}
 #modal{
   position:fixed;
   inset:0;
@@ -51,6 +54,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
