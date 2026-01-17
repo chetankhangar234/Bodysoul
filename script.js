@@ -11,10 +11,24 @@ document.querySelectorAll(".art-img").forEach(img=>{
 modal.onclick = ()=>{
   modal.style.display = "none";
 };
-document.querySelectorAll(".like").forEach(btn=>{
-  btn.onclick = ()=>{
-    const span = btn.querySelector("span");
-    span.innerText = +span.innerText + 1;
-  };
+// ✅ PER-IMAGE LIKE SYSTEM (WITH SAVE)
+
+// saare like buttons pakdo
+document.querySelectorAll(".like").forEach((btn, index) => {
+  const countSpan = btn.querySelector("span");
+  const key = "like_count_" + index;
+
+  // page load pe saved like dikhao
+  let savedCount = localStorage.getItem(key);
+  countSpan.innerText = savedCount ? savedCount : 0;
+
+  // click event
+  btn.addEventListener("click", () => {
+    let count = Number(countSpan.innerText);
+    count++;
+    countSpan.innerText = count;
+    localStorage.setItem(key, count);
+  });
 });
+
 
