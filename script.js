@@ -11,3 +11,10 @@ document.querySelectorAll(".art-img").forEach(img=>{
 modal.onclick = ()=>{
   modal.style.display = "none";
 };
+document.querySelectorAll(".like").forEach(btn=>{
+  btn.onclick = ()=>{
+    const span = btn.querySelector("span");
+    span.innerText = +span.innerText + 1;
+  };
+});
+
