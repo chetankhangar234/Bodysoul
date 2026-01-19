@@ -3,12 +3,14 @@ body{
     margin: 0;
     padding: 10px;
     background-color: #f4f4f4;
+    border-radius:10%;
 }
 header {
     background-color: #333;
     color: #fff;
     padding: 10px 0;
     text-align: center;
+    border-radius:10%;
 }
 h1 {
     margin: 0;
@@ -21,15 +23,23 @@ color: #aaa;
 }
 #art1{
     text-align:center;
+    border-radius:10%;
+    background-color:#2596be;
 }
 #art2{
     text-align:center;
+     border-radius:10%;
+    background-color:#2596be;
 }
 #art3{
     text-align:center;
+     border-radius:10%;
+    background-color:#2596be;
 }
 #art4{
     text-align:center;
+     border-radius:10%;
+    background-color:#2596be;
 }
 #modal{
   position:fixed;
@@ -54,6 +64,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
