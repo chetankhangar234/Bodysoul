@@ -2,7 +2,7 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 10px;
-    background-color: #f4f4f4;
+    background-color:#d0d3d6;
     border-radius:10%;
 }
 header {
@@ -24,22 +24,22 @@ color: #aaa;
 #art1{
     text-align:center;
     border-radius:10%;
-    background-color:#2596be;
+    background-color:#121013;
 }
 #art2{
     text-align:center;
      border-radius:10%;
-    background-color:#2596be;
+    background-color:#121013;
 }
 #art3{
     text-align:center;
      border-radius:10%;
-    background-color:#2596be;
+    background-color:#121013;
 }
 #art4{
     text-align:center;
      border-radius:10%;
-    background-color:#2596be;
+    background-color:#121013;
 }
 #modal{
   position:fixed;
@@ -64,6 +64,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
