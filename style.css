@@ -12,7 +12,7 @@ header {
     text-align: center;
     border-radius:5%;
 }
-search{
+input{
     text-align: center;
     padding: 20px;
     color: #666;
@@ -75,6 +75,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
