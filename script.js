@@ -30,5 +30,21 @@ document.querySelectorAll(".like").forEach((btn, index) => {
     localStorage.setItem(key, count);
   });
 });
+const search = document.getElementById("search");
+
+search.addEventListener("input", ()=>{
+  const value = search.value.toLowerCase();
+
+  for(let i=1;i<=20;i++){        // jitni arts hain utna number
+    const art = document.getElementById("art"+i);
+    if(!art) continue;
+
+    art.style.display =
+      art.innerText.toLowerCase().includes(value)
+      ? "block"
+      : "none";
+  }
+});
+
 
 
