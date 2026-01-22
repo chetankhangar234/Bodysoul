@@ -1,14 +1,15 @@
 body{
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0px;
+    margin: 5px;
+    padding: 5px;
     background-color:#d0d3d6;
     border-radius:10%;
 }
 header {
     background-color: #333;
     color: #fff;
-    padding: 2px;
+    margin:5px;
+    padding: 5px;
     text-align: center;
     border-radius:10%;
 }
@@ -37,6 +38,7 @@ color: #aaa;
     color: #fff;
     width:300px;
     hieght:auto;
+    margin:5px;
 }
 #art2{
     text-align:center;
@@ -93,6 +95,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
