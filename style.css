@@ -11,7 +11,7 @@ header {
     margin:5px;
     padding: 5px;
     text-align: center;
-    border-radius:10%;
+    border-radius:20%;
 }
 input{
     text-align: center;
@@ -39,6 +39,7 @@ color: #aaa;
     width:300px;
     hieght:auto;
     margin:5px;
+    pading:5px;
 }
 #art2{
     text-align:center;
@@ -47,6 +48,8 @@ color: #aaa;
     color: #fff;
     width:300px;
     hieght:auto;
+    margin:5px;
+    pading:5px;
 }
 #art3{
     text-align:center;
@@ -55,6 +58,8 @@ color: #aaa;
     color: #fff;
     width:300px;
     hieght:auto;
+    margin:5px;
+    pading:5px;
 }
 #art4{
      text-align:center;
@@ -63,6 +68,8 @@ color: #aaa;
     color: #fff;
     width:300px;
     hieght:auto;
+    margin:5px;
+    pading:5px;
 }
 #art5{
      text-align:center;
@@ -71,6 +78,8 @@ color: #aaa;
     color: #fff;
     width:300px;
     hieght:auto;
+    margin:5px;
+    pading:5px;
 }
 #modal{
   position:fixed;
@@ -95,6 +104,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
