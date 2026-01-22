@@ -1,7 +1,7 @@
 body{
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 10px;
+    padding: 0px;
     background-color:#d0d3d6;
     border-radius:10%;
 }
@@ -10,13 +10,13 @@ header {
     color: #fff;
     padding: 2px;
     text-align: center;
-    border-radius:30%;
+    border-radius:10%;
 }
 input{
     text-align: center;
     color: #666;
     font-size: 0.9rem;
-    border-radius:40%;
+    border-radius:15%;
     justify-content:center;
     width:250px;
     hieght:auto;
@@ -93,6 +93,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
