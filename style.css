@@ -2,11 +2,11 @@ body{
     font-family: Arial, sans-serif;
     margin: 5px;
     padding: 5px;
-    background-color:#a9f9e9;
+    background-color:#4a3f3b;
     border-radius:10%;
 }
 header {
-    background-color: #feb8d2;
+    background-color: #2a282b;
     color: #fff;
     margin:5px;
     padding: 5px;
@@ -103,6 +103,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
