@@ -2,25 +2,24 @@ body{
     font-family: Arial, sans-serif;
     margin: 5px;
     padding: 5px;
-    background-color:#d0d3d6;
+    background-color:#a9f9e9;
     border-radius:10%;
 }
 header {
-    background-color: #333;
+    background-color: #feb8d2;
     color: #fff;
     margin:5px;
     padding: 5px;
     text-align: center;
-    border-radius:5%;
 }
 input{
     text-align: center;
     color: #666;
     font-size: 0.9rem;
-    border-radius:15%;
     justify-content:center;
     width:250px;
     hieght:auto;
+    background-color:#a1d1dd;
 }
 h1 {
     margin: 0;
@@ -104,6 +103,7 @@ color: #666;
 font-size: 0.9rem;
 
 }
+
 
 
 
