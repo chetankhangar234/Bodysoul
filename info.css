@@ -1,3 +1,10 @@
+header {
+    background-color: #504e4f;
+    color: #fff;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+}
 body{
     font-family: Arial, sans-serif;
     margin: 5px;
